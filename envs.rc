@@ -1,0 +1,5 @@
+EFI_DRIVE=/dev/nvme0n1p1
+SWAP_DRIVE=/dev/nvme0n1p4
+ROOT_DRIVE=/dev/nvme0n1p5
+HOSTNAME=XPS-15-9570-ARCH
+USERNAME=maghsk
